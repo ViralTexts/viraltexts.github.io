@@ -16,13 +16,13 @@ p {
 p a {
   /* text-decoration: underline */
   color: #008AFF;
-}
+/*}
 h1 {
   font-family: 'OctantLigatures-Regular';
   font-weight: normal;
   font-style: normal;
-}
-h2,h3,h4,h5,h6 {
+}*/
+h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
