@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Viral Texts
+title: The Viral Texts Project
 subtitle: Mapping Networks of Reprinting in 19th-Century Newspapers and Magazines
 bigimg: /img/Barter-Chickens_for_Subscription.jpg
 ---
