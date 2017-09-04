@@ -12,4 +12,3 @@ title: Press Coverage
 + Read a nice writeup of the project on Wired Magazine's MapLab Blog, <a href="http://www.wired.com/wiredscience/2013/11/data-mining-viral-texts-1800s/" target="_blank">"Here’s How Memes Went Viral — In the 1800s"</a>
 + Rebecca Onion also wrote about one of our more interesting "Viral Texts" for Slate Magazine's The Vault History Blog: <a href="http://www.slate.com/blogs/the_vault/2013/12/04/advice_for_men_list_of_maxims_that_went_viral_in_the_nineteenth_century.html" target="_blank">"Life Advice for Young Men that Went Viral in the 1850s."</a>
 + Read an interview with the NEH about the project on the <a href="http://www.neh.gov/divisions/odh/featured-project/odh-project-director-qa-ryan-cordell" target="_blank">Office of Digital Humanities' blog</a>.
-</ul>
