@@ -14,28 +14,34 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Oceanic Exchanges
+title: Viral Texts
 
 # Short description of your site
-description: A Digging Into Data project tracing global information networks in historical newspaper repositories, 1840-1914
+description: Mapping Networks of Reprinting in 19th-Century Newspapers and Magazines
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  # About: "index"
-  Team: "team"
-  News: "news"
-  Data: "https://osf.io/wa94s/"
-  Project Links:
-    - Digging Into Data: "https://diggingintodata.org/"
-    - Associated Projects: "associated-projects"
-    - Twitter: "https://twitter.com/oceanicex"
-    - Github: "https://github.com/OceanicExchanges"
+  About:
+    - Team: "team"
+    - Twitter: "https://twitter.com/ViralTexts"
+    - Data: "https://github.com/viraltexts"
+  Publications & Press:
+    - Publications: "publications"
+    - Press: "press"
+    - Project News: "news"
+    - Going the Rounds: "rounds"
+  Visualizations & Exhibits:
+    - A Stunning Love Letter Exhibit: "http://loveletter.viraltexts.org/"
+    - Fugitive Verses Edition: "http://fugitiverses.viraltexts.org/"
+    - Network graphs: "http://networks.viraltexts.org/"
+    - Sample visualizations: "visualizations"
+    
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/oe.png"
+avatar: "/img/logo.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -48,8 +54,8 @@ avatar: "/img/oe.png"
 author:
   name: Ryan Cordell
   email: "r.cordell@northeastern.edu"
-  github: OceanicExchanges    # eg. daattali
-  twitter: OceanicEx   # eg. daattali
+  github: ViralTexts    # eg. daattali
+  twitter: ViralTexts   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -81,7 +87,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "oceanicexchanges.org"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "viraltexts.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -107,7 +113,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Boston"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

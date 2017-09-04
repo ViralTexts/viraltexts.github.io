@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Oceanic Exchanges
-subtitle: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914
-bigimg: /img/HMS-AGAMEMNON.jpg
+title: Viral Texts
+subtitle: Mapping Networks of Reprinting in 19th-Century Newspapers and Magazines
+bigimg: /img/Barter-Chickens_for_Subscription.jpg
 ---
 
-Oceanic Exchanges (OcEx) is funded through the [Transatlantic Partnership for Social Sciences and Humanities 2016 Digging Into Data Challenge](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper).
+<blockquote>"Nothing but a newspaper can drop the same thought into a thousand minds at the same moment..."
+<p align="right">—Alexis de Tocqueville, <em>Democracy in America</em></p>
+</blockquote>
 
-The dramatic expansion of newspapers over the 19th century created a global culture of abundant, rapidly circulating information. The significance of the newspaper has largely been defined in metropolitan and national terms in scholarship, while digitization by local institutions further situates newspapers in national contexts. OcEx brings together leading efforts in computational periodicals research from six countries—Finland, Germany, Mexico, the Netherlands, the United Kingdom, and the United States—to examine patterns of information flow across national and linguistic boundaries. 
+This site presents <a href="http://viraltexts.northeastern.edu">data</a>, <a href="http://networks.viraltexts.org/1836to1899/index.html">visualizations</a>, <a href="http://loveletter.viraltexts.org/neatline/fullscreen/exhibit" target="_blank">interactive exhibits</a>, and both <a href="http://viraltexts.ryancordell.org/publications-and-press/">computational and literary publications</a> drawn from the Viral Texts project, which seeks to develop theoretical models that will help scholars better understand what qualities—both textual and thematic—helped particular news stories, short fiction, and poetry “go viral” in nineteenth-century newspapers and magazines. During this period, texts published in newspapers and magazines were not typically protected as intellectual property, and so literary texts as well as other non-fiction prose texts circulated promiscuously among newspapers as editors freely reprinted materials borrowed from other venues. In the <em>Viral Texts</em> project, we're asking: What texts were reprinted and why? How did ideas—literary, political, scientific, economic, religious—circulate in the public sphere and achieve critical force among audiences? By employing and developing computational linguistics tools to analyze the large textual databases of nineteenth-century newspapers newly available to scholars, this project will generate new knowledge of the nineteenth-century print public sphere.
 
-Through computational analysis, OcEx also crosses the boundaries that separate digitized newspaper corpora to illustrate the global connectedness of 19th century newspapers. OcEx uncovers how the international was refracted through the local as news, advice, vignettes, popular science, poetry, fiction, and more. By linking research across large-scale digital newspaper collections, OcEx offers a model for data custodians that host large-scale humanities data.
+In its first phase (2012-2014), Viral Texts focused on developing its text reuse discovery algorithms and investigating reprinting in the nineteenth-century United States. Links to publications from this phase can be found on our publications page. In 2015-2016, the Viral Texts team will focus on improving the project's algorithms and investigating international reprinting among English-language newspapers in the United States, United Kingdom, and Australia. In addition, project researchers are developing methods for analyzing reprinting across languages, beginning with German, the most common non-English language for nineteenth-century US newspapers.
 
-We’re just getting started, so watch for more in 2017-2019.
+Viral Texts is sponsored by Northeastern University's <a href="http://nulab.neu.edu/">NULab for Texts, Maps, and Networks</a> and generously funded by the National Endowment for the Humanities' <a href="http://www.neh.gov/divisions/odh">Office of Digital Humanities</a> and the American Council of Learned Societies' <a href="https://www.acls.org/research/digital.aspx?id=798&amp;linkidentifier=id&amp;itemid=798">Digital Innovation Fellowship</a> Program. The project team includes Professors <a href="http://ryan.cordells.us">Ryan Cordell</a> and <a href="http://www.ccs.neu.edu/home/dasmith/">David Smith</a>, as well as Ph.D. students <a href="http://www.jonathandfitzgerald.com/" target="_blank">Jonathan Fitzgerald</a> and Thansis Kinias. Project alumni include Professor <a href="http://www.northeastern.edu/cssh/faculty/elizabeth-dillon" target="_blank">Elizabeth Maddock Dillon</a> and graduate students <a href="http://abbymullen.org/">Abby Mullen</a>, <a href="http://kevingeraldsmith.com/" target="_blank">Kevin G. Smith</a>, Peter Roby, and Matthew Williamson. This website is maintained by Co-PI <a href="mailto:r.cordell@neu.edu" target="_blank">Ryan Cordell</a>, who you can also contact at <a href="http://twitter.com/ryancordell">@ryancordell</a> on Twitter.
 
 ## Suggested Project Citation
 
-Cordell, R. et al., 2017. Oceanic Exchanges. DOI 10.17605/OSF.IO/WA94S. Available at: [osf.io/wa94s](https://osf.io/wa94s).
-
-For more citation options, please visit our [Open Science Framework](https://osf.io/wa94s) page.
+TBD
 
 -----
 
-*Our website cover image depicts HMS* Agamemnon *laying the transatlantic telegraph cable in 1857 or 58. The cable was joined on 29 July, 1858. The pulic domain image was copied [from Wikimedia](https://commons.wikimedia.org/wiki/File:H.M.S._%E2%80%9CAGAMEMNON%E2%80%9D_laying_cable.jpg).*
+*Our website cover image is "The Country Editor–Paying the Yearly Subscription" by F.S. Church, from* Harper's Weekly *(17 January 1874). In it a rural man seeks to pay for his local newspaper subscription with a pair of chickens. The editor weighs this proposal amidst the fruit of similar negotiations all around. Most pertinent to this project, however, are the scissors and newspaper clippings on the editor's desk, and the pasted-up clipping from which the compositor (the man through the door on the left) is setting type. These clues point to the importance of the exchange system, and the reprinting we are tracking in Viral Texts, in creating the nineteenth-century American newspaper.*
