@@ -2,6 +2,7 @@
 layout: page
 title: Going the Rounds
 subtitle: Virality in Nineteenth Century American Newspapers
+bigimg: /img/0702141-small-716.jpg
 ---
 
 ## Approved Book Proposal
