@@ -6,7 +6,7 @@ title: Our Project Team
 ## Primary Investigators
 
 + <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a>, Assistant Professor of English, Northeastern University
-+ <a href="http://www.ccs.neu.edu/home/dasmith/" target="_blank">David A. Smith</a>, Assistant Professor of Computer Science, Northeastern University
++ <a href="http://www.ccs.neu.edu/home/dasmith/ target="_blank">David A. Smith</a>, Assistant Professor of Computer Science, Northeastern University
 
 
 ## Graduate Researchers
