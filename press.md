@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Press Coverage
+bigimg: /img/RockyMountainNews.jpg
 ---
 
 + Read about the project in an article by Britt Peterson in *Smithsonian Magazine* (print and online): <a href="http://www.smithsonianmag.com/innovation/listicles-went-viral-long-before-internet-180955742/?no-ist" target="_blank">"There Were Listicles That Went Viral Long Before There Was an Internet"</a>
