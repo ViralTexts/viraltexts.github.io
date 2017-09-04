@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Our Project Team
+bigimg: /img/hoes-press.png
 ---
 
 ## Primary Investigators
