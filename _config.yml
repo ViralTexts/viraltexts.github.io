@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://oceanicexchanges.github.io"
+url: "http://viraltexts.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -37,6 +37,10 @@ navbar-links:
     - Fugitive Verses Edition: "http://fugitiverses.viraltexts.org/"
     - Network graphs: "http://networks.viraltexts.org/"
     - Sample visualizations: "visualizations"
+  Generously Funded By:
+    - The National Endowment for the Humanities Office of Digital Humanities: "http://www.neh.gov/divisions/odh"
+    - The American Council of Learned Societies Digital Innovation Program: "https://www.acls.org/programs/digital/"
+    - Northeastern University Research Office: "http://www.northeastern.edu/research/"
     
 
 # Image to show in the navigation bar - image must be a square (width = height)
