@@ -26,17 +26,17 @@ navbar-links:
   About:
     - Home: "index"
     - Team: "team"
-    - Twitter: "https://twitter.com/ViralTexts"
-    - Data: "https://github.com/viraltexts"
-  Publications:
-    - Project News: "news"
     - Press Coverage: "press"
+    - Twitter: "https://twitter.com/ViralTexts"
+  Publications:
+    - Viral Texts Blog: "blog"
     - Publications: "publications"
     - A Stunning Love Letter Exhibit: "http://loveletter.viraltexts.org/"
     - Fugitive Verses Edition: "http://fugitiverses.viraltexts.org/"
     - Network graphs: "http://networks.viraltexts.org/"
     - Sample visualizations: "visualizations"
     - Going the Rounds Book: "rounds"
+    - Data: "https://github.com/viraltexts"
   Funded by:
     - National Endowment for the Humanities Office of Digital Humanities: "http://www.neh.gov/divisions/odh"
     - American Council of Learned Societies Digital Innovation Program: "https://www.acls.org/programs/digital/"
