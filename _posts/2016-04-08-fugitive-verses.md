@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computational Methods for Uncovering Reprinted Texts in Antebellum Newspapers
+title: “Fugitive Verses”: The Circulation of Poems in Nineteenth-Century American Newspapers
 author: Ryan Cordell and Abby Mullen
 permalink: /2016/04/08/fugitive-verses/
 ---
