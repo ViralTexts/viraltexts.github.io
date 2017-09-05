@@ -28,6 +28,7 @@ navbar-links:
     - Team: "team"
     - Press Coverage: "press"
     - Twitter: "https://twitter.com/ViralTexts"
+    - NULab: "http://www.northeastern.edu/nulab/"
   Publications:
     - Viral Texts Blog: "blog"
     - Publications: "publications"
