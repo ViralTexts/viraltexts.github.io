@@ -7,8 +7,6 @@ permalink: /2016/04/08/fugitive-verses/
 
 <em>This is a peer reviewed but uncopyedited pre-print of an article forthcoming in <a href="http://www.amperiodicals.org/" target="_blank"><em>American Periodicals</em></a> 27, vol. 1 (Spring 2017). We provide it by the generous permission of the Ohio University Press. When the copyedited issue is published we will provide a link to the final version of the article here.</em>
 
-<h2>“Fugitive Verses”: The Circulation of Poems in Nineteenth-Century American Newspapers</h2>
-
 <blockquote>WHEN the lessons and tasks are all ended,
 &nbsp;&nbsp;&nbsp;&nbsp;And the school for the day is dismissed,
 And the little ones gather around me,
