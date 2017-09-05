@@ -7,10 +7,8 @@ bigimg: /img/Abby-map.jpg
 
 ## Approved Book Proposal
 
-Primary: Ryan Cordell, Northeastern University Contact:
-<r.cordell@neu.edu> or 508-918-0125
-
-Co-authors: David A. Smith, Abby Mullen, Jonathan Fitzgerald, and Thanasis Kinias
++ Primary: Ryan Cordell, Northeastern University Contact: <r.cordell@neu.edu> or 508-918-0125
++ Co-authors: David A. Smith, Abby Mullen, Jonathan Fitzgerald, and Thanasis Kinias
 
 <a name="toc"></a>
 
