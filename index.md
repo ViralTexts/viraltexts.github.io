@@ -18,7 +18,7 @@ This website is maintained by Co-PI <a href="mailto:r.cordell@neu.edu" target="
 
 ## Suggested Project Citation
 
-TBD
+Ryan Cordell and David Smith, *Viral Texts: Mapping Networks of Reprinting in 19th-Century Newspapers and Magazines* (2017), <a href="http://viraltexts.org" target="_blank">http://viraltexts.org</a>.
 
 -----
 
