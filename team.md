@@ -6,8 +6,8 @@ bigimg: /img/hoes-press.png
 
 ## Primary Investigators
 
-+ <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a>, Assistant Professor of English, Northeastern University
-+ <a href="http://www.ccs.neu.edu/home/dasmith/" target="_blank">David A. Smith</a>, Assistant Professor of Computer Science, Northeastern University
++ <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a>, Associate Professor of English, Northeastern University
++ <a href="http://www.ccs.neu.edu/home/dasmith/" target="_blank">David A. Smith</a>, Associate Professor of Computer Science, Northeastern University
 
 
 ## Graduate Researchers
@@ -19,7 +19,7 @@ bigimg: /img/hoes-press.png
 + Elizabeth Maddock Dillon, Professor of English, Northeastern University
 + <a href="http://www.jonathandfitzgerald.com" target="_blank">Jonathan D. Fitzgerald</a>, Ph.D. student, English Department, Northeastern University
 + <a href="http://dighist15.kinias.org/" target="_blank">Thanasis Kinias</a>, Ph.D. student, History Department, Northeastern University
-+ <a href="http://abbymullen.org" target="_blank">Abby Mullen</a>, Ph.D. Candidate, History Department, Northeastern University
++ <a href="http://abbymullen.org" target="_blank">Abby Mullen</a>, Research Faculty, Roy Rosenzweig Center for History and New Media, George Mason University
 + <a href="http://kevingeraldsmith.com" target="_blank">Kevin Smith</a>, Ph.D. Candidate, English Department, Northeastern University
 + Peter Roby, MA student, English Department, Northeastern University
 + Matthew Wilkinson, Ph.D. student, History Department, Northeastern University
