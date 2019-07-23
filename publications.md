@@ -3,6 +3,10 @@ layout: page
 title: Project Publications
 ---
 
+### Book Project 
+
++ We are currently working on a hybrid digital-print book project, [*Going the Rounds: Virality in Nineteenth-Century American Newspapers*](https://manifold.umn.edu/projects/going-the-rounds) through the University of Minnesota's Manifold Scholarship Initiative. Two draft chapters are currently published online: David A. Smith and Ryan Cordell, ["Textual Criticism as Language Modeling"](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb) and Jonathan D. Fitzgerald and Ryan Cordell, ["Classifying Vignettes, Modeling Hybridity"](https://manifold.umn.edu/read/untitled-bd3eb0af-fdad-4dd6-9c94-3fd15d522ab6).
+
 ### Online Exhibits and Visualizations
 
 + Explore the interactive exhibit, <a href="http://loveletter.viraltexts.org/neatline/fullscreen/exhibit" target="_blank">"A Love Letter to Viral Texts."</a>
@@ -18,7 +22,3 @@ title: Project Publications
 + <a href="http://www.ccs.neu.edu/home/dasmith/infect-dl-2014.pdf" target="_blank">"Detecting and Modeling Local Text Reuse,"</a> published in the *Proceedings of IEEE/ACM Joint Conference on Digital Libraries* (IEEE Computer Society Press, 2014).
 + <a href="http://www.aclweb.org/anthology/W/W14/W14-2707.pdf" target="_blank">"Detecting and Evaluating Local Text Reuse in Social Networks,"</a> published in the *Proceedings of the Joint Workshop on Social Dynamics and Personal Attributes* (Association for Computational Linguists, 2014).
 + <a href="http://www.ccs.neu.edu/home/dasmith/infect-bighum-2013.pdf" target="_blank">"Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers,"</a> published in the *Proceedings of the Workshop on Big Humanities* (IEEE Computer Society Press, 2013).
-
-### Book Project 
-
-+ We are currently working on a hybrid digital-print book project, [*Going the Rounds: Virality in Nineteenth-Century American Newspapers*](http://staging.manifoldapp.org/project/going-the-rounds) through the University of Minnesota's Manifold Scholarship Initiative.
