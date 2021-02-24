@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "A Dataset of Nineteenth-Century American Recipes"
-author: Avery Blankenship
+author: akblankenship
 permalink: /2021/02/24/c19-recipes/
 ---
-
-**By Avery Blankenship**
 
 <https://github.com/ViralTexts/nineteenth-century-recipes/>
 

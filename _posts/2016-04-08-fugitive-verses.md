@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "&quot;Fugitive Verses&quot;&#58; The Circulation of Poems in Nineteenth-Century American Newspapers"
-author: Ryan Cordell and Abby Mullen
+author: rccordell, abbymullen
 permalink: /2016/04/08/fugitive-verses/
 ---
 

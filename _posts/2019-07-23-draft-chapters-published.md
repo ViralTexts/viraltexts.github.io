@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Draft Chapters from *Going the Rounds* Published Online"
-author: Ryan Cordell
+author: rccordell
 permalink: /2019/07/23/draft-chapters-published/
 ---
 
