@@ -5,6 +5,8 @@ author: Avery Blankenship
 permalink: /2021/02/24/c19-recipes/
 ---
 
+**By Avery Blankenship**
+
 <https://github.com/ViralTexts/nineteenth-century-recipes/>
 
 Previous experiments through the _Viral Texts_ project have focused on specific genres of nineteenth-century newspaper reprinting, such as fiction, vignettes, news, etc. Thus far, the project has yet to focus on one of the most prolific genres of text in the nineteenth century: the recipe. For many people operating out of and within the domestic sphere in the nineteenth century, recipe writing and cookbooks more broadly were some of the only ways in which they could access print media and disseminate their ideas and authority to a broader audience. The newspaper was one way in which recipes circulated in the nineteenth century, though even within a seemingly clear-cut genre and form such as the recipe, there were still many writers using the recipe form in order to expand the genre to include humor writing, medicine, and even cosmetic products. 
