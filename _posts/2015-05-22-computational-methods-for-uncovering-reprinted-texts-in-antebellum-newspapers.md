@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computational Methods for Uncovering Reprinted Texts in Antebellum Newspapers
-author: David Smith, Ryan Cordell, and Abby Mullen
+author: dasmiq, rccordell, abbymullen
 permalink: /2015/05/22/computational-methods-for-uncovering-reprinted-texts-in-antebellum-newspapers/
 ---
 
