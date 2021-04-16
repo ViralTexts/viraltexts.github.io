@@ -32,6 +32,8 @@ Ryan Cordell and David Smith, *Viral Texts: Mapping Networks of Reprinting in 19
 
 -----
 
+-----
+
 This website is maintained by Co-PI <a href="mailto:r.cordell@neu.edu" target="_blank">Ryan Cordell</a>, who you can also contact at <a href="http://twitter.com/ryancordell" target="_blank">@ryancordell</a> on Twitter.
 
 *Our website cover image is "The Country Editor–Paying the Yearly Subscription" by F.S. Church, from* Harper's Weekly *(17 January 1874). In it a rural man seeks to pay for his local newspaper subscription with a pair of chickens. The editor weighs this proposal amidst the fruit of similar negotiations all around. Most pertinent to this project, however, are the scissors and newspaper clippings on the editor's desk, and the pasted-up clipping from which the compositor (the man through the door on the left) is setting type. These clues point to the importance of the exchange system, and the reprinting we are tracking in Viral Texts, in creating the nineteenth-century American newspaper.*
