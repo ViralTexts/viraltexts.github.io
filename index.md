@@ -24,7 +24,9 @@ In its first phase (2012-2014), Viral Texts focused on developing its text reuse
 
 Viral Texts is sponsored by Northeastern University's <a href="http://nulab.neu.edu/" target="_blank">NULab for Texts, Maps, and Networks</a> and generously funded by the National Endowment for the Humanities' <a href="http://www.neh.gov/divisions/odh" target="_blank">Office of Digital Humanities</a> and the American Council of Learned Societies' <a href="https://www.acls.org/research/digital.aspx?id=798&amp;linkidentifier=id&amp;itemid=798" target="_blank">Digital Innovation Fellowship</a> Program. The project team includes Professors <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a> and <a href="http://www.ccs.neu.edu/home/dasmith/" target="_blank">David Smith</a>, alongside [colleagues past and present](/team/). 
 
-## Suggested Project Citation
+-----
+
+### Suggested Project Citation
 
 Ryan Cordell and David Smith, *Viral Texts: Mapping Networks of Reprinting in 19th-Century Newspapers and Magazines* (2017), <a href="http://viraltexts.org" target="_blank">http://viraltexts.org</a>.
 
