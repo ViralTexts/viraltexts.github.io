@@ -18,7 +18,7 @@ The newspapers published each year in the United States during the nineteenth ce
 ## Reprinting Data
 
 <iframe src="https://viraltexts.org/img/top-authors-wright.html"
-  style="border:none; width:100%; height:400px"
+  style="border:none; width:100%; height:300px"
 ></iframe>
 
 The authors from the [Wright American Fiction Collection](http://webapp1.dlib.indiana.edu/TEIgeneral/welcome.do?brand=wright) most reprinted in newspapers, and prepared as part of our forthcoming book chapter, [
@@ -33,13 +33,13 @@ Network graphs created for our article, ["Reprinting, Circulation, and the Netwo
 
 <img src="http://viraltexts.org/img/genre_probabilities.png" alt="The probabilities of clusters belonging to four genres" width="100%">
 
-_This graph shows the probabilities of newspaper texts belonging to four genres, as described in our book chapter, ["Classifying Vignettes, Modeling Hybridity."](https://manifold.umn.edu/read/untitled-bd3eb0af-fdad-4dd6-9c94-3fd15d522ab6/section/06899e82-8f06-43d2-9fc9-ea04dffef886)_
+This graph shows the probabilities of newspaper texts belonging to four genres, as described in our book chapter, ["Classifying Vignettes, Modeling Hybridity."](https://manifold.umn.edu/read/untitled-bd3eb0af-fdad-4dd6-9c94-3fd15d522ab6/section/06899e82-8f06-43d2-9fc9-ea04dffef886)
 
 ## Geographic Visualizations
 
 <img src="http://viraltexts.org/img/chronam_states_grad.png" alt="This map shows the number of newspapers each state has contributed to Chronicling America." width="100%">
 
-_This map shows the number of newspapers each state has contributed to Chronicling America._
+This map shows the number of newspapers each state has contributed to Chronicling America, prepared while writing ["‘Q i-jtb the Raven’: Taking Dirty OCR Seriously"](https://ryancordell.org/research/qijtb-the-raven/). 
 
 
 
