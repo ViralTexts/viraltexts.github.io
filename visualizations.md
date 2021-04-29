@@ -34,7 +34,7 @@ This graph shows the probabilities of newspaper texts belonging to four genres, 
 ## Reprinting Data
 
 <iframe src="https://viraltexts.org/img/top-authors-wright.html"
-  style="border:none; width:100%; height:300px"
+  style="border:none; width:100%; height:500px"
 ></iframe>
 
 The authors from the [Wright American Fiction Collection](http://webapp1.dlib.indiana.edu/TEIgeneral/welcome.do?brand=wright) most reprinted in newspapers, and prepared as part of our forthcoming book chapter, [
