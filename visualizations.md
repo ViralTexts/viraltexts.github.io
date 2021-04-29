@@ -22,7 +22,7 @@ The newspapers published each year in the United States during the nineteenth ce
 ></iframe>
 
 The authors from the [Wright American Fiction Collection](http://webapp1.dlib.indiana.edu/TEIgeneral/welcome.do?brand=wright) most reprinted in newspapers, and prepared as part of our forthcoming book chapter, [
-"Reprinting Wright."](https://manifold.umn.edu/read/reprinting-wright/section/7654d423-46e3-4535-8e19-ea8b665faca8). You can also open this graph [in its own window](https://viraltexts.org/img/https://viraltexts.org/img/Etop-authors-wright.html). 
+"Reprinting Wright."](https://manifold.umn.edu/read/reprinting-wright/section/7654d423-46e3-4535-8e19-ea8b665faca8). You can also open this graph [in its own window](https://viraltexts.org/img/https://viraltexts.org/img/top-authors-wright.html). 
 
 ## Network Graphs
 
