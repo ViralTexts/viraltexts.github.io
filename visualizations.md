@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sample Visualizations
-bigimg: /img/ALH-pre1861network-detail.png
+bigimg: /img/NetworkCascades-small.png
 ---
 
 On this page, you'll find sample visualizations that relate to the Viral Texts project. Most of these have been created for particular [project publications](https://viraltexts.org/publications/). 
