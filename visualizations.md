@@ -4,14 +4,48 @@ title: Sample Visualizations
 bigimg: /img/ALH-pre1861network-detail.png
 ---
 
-We're in the process of updating this page (as of 2017-09-03) during our site migration. Please check back soon!
+On this page, you'll find sample visualizations that relate to the Viral Texts project. Most of these have been created for particular [project publications](https://viraltexts.org/publications/). 
 
-<!-- On this page, you'll find some visualizations that relate to the Viral Texts project. There are many <a href="http://networks.viraltexts.org/">network graphs available at a separate URL</a>.
 
-[caption id="attachment_44" align="alignnone" width="3507"]<a href="http://viraltexts.ryancordell.org/files/2015/04/chronam_states_grad.png"><img class="wp-image-44 size-full" src="http://viraltexts.ryancordell.org/files/2015/04/chronam_states_grad.png" alt="This map shows the number of newspapers each state has contributed to Chronicling America." width="3507" height="2480" /></a> This map shows the number of newspapers each state has contributed to Chronicling America.[/caption]
+## Newspaper Data
 
-[caption id="attachment_41" align="aligncenter" width="3000"]<a href="http://viraltexts.ryancordell.org/files/2015/04/ViralTextsDataByYear.png"><img class="wp-image-41 size-full" src="http://viraltexts.ryancordell.org/files/2015/04/ViralTextsDataByYear.png" alt="This graph shows the number of periodical issues in the Viral Texts data by year until 1861." width="3000" height="1500" /></a> This graph shows the number of periodical issues in the Viral Texts data by year until 1860.[/caption]
+<iframe src="https://viraltexts.org/img/ExtantNewspapersByYear.html"
+  style="border:none; width:100%; height:400px"
+></iframe>
 
-One of the ways we have recently been looking at the Viral Texts data is through the paratext printed along with the shared texts. The paratext of one text we've investigated had a particularly striking transformation as it traveled through time and space: its author changed from the New York lawyer, editor, and diplomat Charles Monroe Dickinson to the famed author Charles Dickens. This time-lapse visualization shows the locations in which the text was attributed to Dickinson versus those where it was attributed to Dickens.
+The newspapers published each year in the United States during the nineteenth century, derived from the Library of Congress' [US Newspaper Directory](https://chroniclingamerica.loc.gov/search/titles/) and prepared as part of our forthcoming book, [_Going the Rounds_](https://manifold.umn.edu/projects/going-the-rounds). You can also open this graph [in its own window](https://viraltexts.org/img/ExtantNewspapersByYear.html). 
 
-[embed]https://www.youtube.com/watch?v=pVUjBpfYrFM[/embed] -->
+## Network Graphs
+
+<iframe src="http://networks.viraltexts.org/1836to1860/"
+  style="border:none; width:100%; height:800px"
+></iframe>
+
+A network graph created for our article, ["Reprinting, Circulation, and the Network Author in Antebellum Newspapers."](https://ryancordell.org/research/reprinting-circulation-and-the-network-author-in-antebellum-newspapers/)
+
+You can also open this graph [in its own window](http://networks.viraltexts.org/1836to1860/), and find [other network graphs](http://networks.viraltexts.org/) elsewhere on our website.
+
+## Reprinting Data
+
+<iframe src="https://viraltexts.org/img/Etop-authors-wright.html"
+  style="border:none; width:100%; height:400px"
+></iframe>
+
+The authors from the [Wright American Fiction Collection](http://webapp1.dlib.indiana.edu/TEIgeneral/welcome.do?brand=wright) most reprinted in newspapers, and prepared as part of our forthcoming book chapter, [
+"Reprinting Wright."](https://manifold.umn.edu/read/reprinting-wright/section/7654d423-46e3-4535-8e19-ea8b665faca8). You can also open this graph [in its own window](https://viraltexts.org/img/https://viraltexts.org/img/Etop-authors-wright.html). 
+
+
+## Genre Classification
+
+<img src="http://viraltexts.org/img/genre_probabilities.png" alt="The probabilities of clusters belonging to four genres" width="100%">
+
+_This graph shows the probabilities of newspaper texts belonging to four genres, as described in our book chapter, ["Classifying Vignettes, Modeling Hybridity."](https://manifold.umn.edu/read/untitled-bd3eb0af-fdad-4dd6-9c94-3fd15d522ab6/section/06899e82-8f06-43d2-9fc9-ea04dffef886)_
+
+## Geographic Visualizations
+
+<img src="http://viraltexts.org/img/chronam_states_grad.png" alt="This map shows the number of newspapers each state has contributed to Chronicling America." width="100%">
+
+_This map shows the number of newspapers each state has contributed to Chronicling America._
+
+
+
