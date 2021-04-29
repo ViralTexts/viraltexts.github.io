@@ -27,7 +27,7 @@ You can also open this graph [in its own window](http://networks.viraltexts.org/
 
 ## Reprinting Data
 
-<iframe src="https://viraltexts.org/img/Etop-authors-wright.html"
+<iframe src="https://viraltexts.org/img/top-authors-wright.html"
   style="border:none; width:100%; height:400px"
 ></iframe>
 
