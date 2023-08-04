@@ -9,7 +9,8 @@ We are currently working on a hybrid digital-print book project, [*Going the Rou
 
 + Ryan Cordell, ["Viral Textuality"](https://manifold.umn.edu/read/viral-textuality)
 + Ryan Cordell and David A. Smith, ["Editing a Paper"](https://manifold.umn.edu/read/editing-a-paper)
-+ David A. Smith and Ryan Cordell, ["Textual Criticism as Language Modeling"](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb) and Jonathan D. Fitzgerald and Ryan Cordell, ["Classifying Vignettes, Modeling Hybridity"](https://manifold.umn.edu/read/untitled-bd3eb0af-fdad-4dd6-9c94-3fd15d522ab6).
++ David A. Smith and Ryan Cordell, ["Textual Criticism as Language Modeling"](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb)
++ Jonathan D. Fitzgerald and Ryan Cordell, ["Classifying Vignettes, Modeling Hybridity"](https://manifold.umn.edu/read/untitled-bd3eb0af-fdad-4dd6-9c94-3fd15d522ab6).
 + Avery Blankenship and Ryan Cordell, ["Reprinting Wright"](https://manifold.umn.edu/read/reprinting-wright)
 
 ### Online Exhibits and Visualizations
