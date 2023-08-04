@@ -9,13 +9,14 @@ title: Project Publications
 
 ### Online Exhibits and Visualizations
 
-+ Explore the interactive exhibit, <a href="http://loveletter.viraltexts.org/neatline/fullscreen/exhibit" target="_blank">"A Love Letter to Viral Texts."</a>
++ (under construction) Explore the interactive exhibit, <a href="http://loveletter.viraltexts.org/neatline/fullscreen/exhibit" target="_blank">"A Love Letter to Viral Texts."</a>
 + Browse a growing, barebones edition of popular newspaper poetry uncovered in the project: <a href="http://fugitiverses.viraltexts.org/" target="_blank">"Fugitive Verses."</a>
 + Look over some [sample visualizations](/visualizations/) produced for the project.
 + Browse a sample of the <a href="http://networks.viraltexts.org/" target="_blank">network graphs</a> produced during the project.
 
 ### Published Papers
 
++ [“Speculative Bibliography,”](https://www.degruyter.com/view/journals/angl/138/3/article-p519.xml), _Anglia_ 138:3 (September 2020), special “Archives” issue, ed. Daniel Stein
 + ['Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers,"](/2016/04/08/fugitive-verses/) <em>American Periodicals</em> 27.1 (Spring 2017).
 + <a href="http://ryancordell.org/research/reprinting-circulation-and-the-network-author-in-antebellum-newspapers/" target="_blank">"Reprinting, Circulation, and the Network Author in Antebellum Newspapers"</a> and ["Computational Methods for Uncovering Reprinted Texts in Antebellum Newspapers"](/2015/05/22/computational-methods-for-uncovering-reprinted-texts-in-antebellum-newspapers/), published in *American Literary History* 27.3 (August 2015).
 + “Viral Textuality in Nineteenth-Century U.S. Newspaper Exchanges,” in *Virtual Victorians: Networks, Connections, Technologies*, ed. Veronica Alfano and Andrew Stauffer, Palgrave MacMillan (May 2015)
