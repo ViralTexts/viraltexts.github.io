@@ -31,9 +31,10 @@ navbar-links:
     - NULab: "http://www.northeastern.edu/nulab/"
     - Oceanic Exchanges: "http://oceanicexchanges.org"
   Publications:
+	  - Reprints Database: "http://clusters.viraltexts.org"
     - Viral Texts Blog: "blog"
     - Publications: "publications"
-    - Love Letter Exhibit: "http://loveletter.viraltexts.org/"
+    - Love Letter Exhibit: "Currently being repaired"
     - Fugitive Verses Edition: "http://fugitiverses.viraltexts.org/"
     - Going the Rounds Book: "rounds"
     - Sample Visualizations: "visualizations"
