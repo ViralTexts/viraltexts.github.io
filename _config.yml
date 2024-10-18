@@ -31,7 +31,7 @@ navbar-links:
     - NULab: "http://www.northeastern.edu/nulab/"
     - Oceanic Exchanges: "http://oceanicexchanges.org"
   Publications:
-	- Reprints Database: "http://clusters.viraltexts.org"
+    - Reprints Database: "http://clusters.viraltexts.org"
     - Viral Texts Blog: "blog"
     - Publications: "publications"
     - Fugitive Verses Edition: "http://fugitiverses.viraltexts.org/"
@@ -39,6 +39,7 @@ navbar-links:
     - Sample Visualizations: "visualizations"
     - Data: "https://github.com/viraltexts"
   Funded by:
+    - The Andrew W. Mellon Foundation
     - National Endowment for the Humanities Office of Digital Humanities: "http://www.neh.gov/divisions/odh"
     - American Council of Learned Societies Digital Innovation Program: "https://www.acls.org/programs/digital/"
     - Northeastern University Research Office: "http://www.northeastern.edu/research/"
