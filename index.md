@@ -24,7 +24,7 @@ In its first phase (2012-2014), Viral Texts focused on developing its text reuse
 
 Viral Texts is sponsored by Northeastern University's <a href="http://nulab.neu.edu/" target="_blank">NULab for Texts, Maps, and Networks</a> and generously funded by the National Endowment for the Humanities' <a href="http://www.neh.gov/divisions/odh" target="_blank">Office of Digital Humanities</a> and the American Council of Learned Societies' <a href="https://www.acls.org/research/digital.aspx?id=798&amp;linkidentifier=id&amp;itemid=798" target="_blank">Digital Innovation Fellowship</a> Program. The project team includes Professors <a href="http://ryancordell.org" target="_blank">Ryan Cordell</a> (Associate Professor of Information Sciences and English, University of Illinois Urbana-Champaign) and <a href="http://www.ccs.neu.edu/home/dasmith/" target="_blank">David Smith</a> (Associate Professor of Computer Science, Northeastern University), alongside [colleagues past and present](/team/). 
 
-You can search a current version of our nineteenth-century newspaper reprinting data at <http://clusters.viraltexts.org>.
+You can search a current version of our nineteenth-century newspaper reprinting data at <https://clusters.viraltexts.org>.
 
 -----
 
