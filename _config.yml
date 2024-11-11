@@ -61,14 +61,14 @@ author:
   name: Ryan Cordell
   email: "r.cordell@northeastern.edu"
   github: ViralTexts    # eg. daattali
-  twitter: ViralTexts   # eg. daattali
+  twitter:   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
   rss: true
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
@@ -86,7 +86,7 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   google: false
   linkedin: false
