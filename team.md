@@ -11,10 +11,10 @@ bigimg: /img/hoes-press.png
 
 ## Graduate Researchers
 
-+ Avery Blankenship, Ph.D. candidate, English Department, Northeastern University
-+ Daniel Owens, Ph.D. student, UIUC iSchool
++ [Avery Blankenship](https://www.averyblankenship.com), Ph.D. candidate, English Department, Northeastern University
++ [Daniel Evans](https://ischool.illinois.edu/people/daniel-evans), Ph.D. student, UIUC iSchool
 + Jess Frye, Ph.D. student, UIUC iSchool
-+ Matthew Kollmer, Ph.D. student, UIUC iSchool
++ [Matthew Kollmer](https://matthewkollmer.com), Ph.D. student, UIUC iSchool
 + Abraham Frank, MSLIS student, UIUC iSchool
 + Amanda Riggenbach, MSLIS student, UIUC iSchool
 
