@@ -27,9 +27,9 @@ navbar-links:
     - Home: "index"
     - Team: "team"
     - Press Coverage: "press"
-    - Twitter: "https://twitter.com/ViralTexts"
     - NULab: "http://www.northeastern.edu/nulab/"
     - Oceanic Exchanges: "http://oceanicexchanges.org"
+    - Virality of Racial Terror: "https://www.racialviolencearchive.com/vrt-project.html"
   Publications:
     - Reprints Database: "https://clusters.viraltexts.org"
     - Viral Texts Blog: "blog"
