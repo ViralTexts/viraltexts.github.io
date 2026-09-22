@@ -15,7 +15,7 @@ We are currently working on a hybrid digital-print book project, [*Going the Rou
 
 ### Online Exhibits and Visualizations
 
-+ (under construction) Explore the interactive exhibit, "A Love Letter to Viral Texts."
++ Explore the interactive exhibit: <a href="https://loveletter.viraltexts.org" target="_blank">"A Love Letter to Viral Texts"</a>
 + Browse a barebones edition of popular newspaper poetry uncovered in the project: <a href="http://fugitiverses.viraltexts.org/" target="_blank">"Fugitive Verses."</a>
 + Look over some [sample visualizations](/visualizations/) produced for the project.
 + Browse a sample of the <a href="http://networks.viraltexts.org/" target="_blank">network graphs</a> produced during the project.
