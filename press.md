@@ -4,6 +4,7 @@ title: Press Coverage
 bigimg: /img/RockyMountainNews.jpg
 ---
 
++ Co-PI Ryan Cordell was interviewed about histories of fake news on ["The Curiosity Desk,"](https://www.wgbh.org/podcasts/the-curiosity-desk/where-do-democrats-take-it-from-here) GBH Boston, 9 November 2026
 + Read about the project in an article by Britt Peterson in *Smithsonian Magazine* (print and online): <a href="http://www.smithsonianmag.com/innovation/listicles-went-viral-long-before-internet-180955742/?no-ist" target="_blank">"There Were Listicles That Went Viral Long Before There Was an Internet"</a>
 + Co-PI Ryan Cordell was interviewed by Scott Simon for NPR's Weekend Edition: <a href="http://www.npr.org/2015/05/23/408996490/hot-content-went-viral-in-the-1800s-too" target="_blank">"Hot Content Went Viral in the 1800s, Too"</a>
 + Co-PI Ryan Cordell's talk from the 2015 Modern Language Association Convention: <a href="http://ryancordell.org/mla/many-facts-in-small-compass-information-literature-in-c19-newspapers-mla15-talk/" target="_blank">"'Many Facts in Small Compass': Information Literature in C19 Newspapers"</a>
